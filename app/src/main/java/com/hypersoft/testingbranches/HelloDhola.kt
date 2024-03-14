@@ -1,4 +1,4 @@
 package com.hypersoft.testingbranches
 
-class HelloBranch {
+class HelloDhola {
 }
